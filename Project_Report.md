@@ -1,5 +1,8 @@
 Practical Machine Learning Course Project Report
 ================================================
+Prashant Singh
+July 13th, 2017
+
 
 Background
 ----------
